@@ -4,6 +4,51 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
 
 */
 
+body {
+  background: #002B36;
+}
+
+textarea {
+  color: #fff;
+}
+
+#lineos {
+  color: #7d7d7d;
+}
+
+#box1 {
+  background: #00222b;
+}
+
+#box2 {
+  background: #08323c;
+}
+
+#box3, #messages li {
+  background: #173e48;
+}
+
+.hljs {
+  background: red;
+  color: #839496;
+}
+
+#box3 .label, #messages li {
+  color: #fff;
+}
+
+#box3 .shortcut {
+  color: #c4dce3;
+}
+
+#messages li {
+  background:rgba(23,62,72,0.8);
+}
+
+#messages li.error {
+  background:rgba(102,8,0,0.8);
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
